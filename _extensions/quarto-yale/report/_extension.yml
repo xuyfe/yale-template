@@ -35,8 +35,4 @@ contributes:
         - "before-title.tex"
         - "title.tex"
       format-resources:
-        - monash2.png
-        - MBSportrait.jpg
-        - EQUIS.png
-        - AMBA.png
-        - AACSB.png
+        - yale_blue_eps.eps
